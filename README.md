@@ -8,3 +8,7 @@ Add the remote repo to the project:
 ```
 git remote add <name of the repo> <repo net url>
 ```
+To get and merge the changes from a remote repo the following command is used:
+```
+git pull
+```
